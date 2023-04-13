@@ -1,4 +1,4 @@
-mlgame==10.2.7
+mlgame==10.2.8
 box2d-py==2.3.8
 pygame==2.0.1
 pyinstaller==5.2
