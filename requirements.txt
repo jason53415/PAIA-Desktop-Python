@@ -1,7 +1,7 @@
 mlgame==10.3.2
 box2d-py==2.3.8
 pygame==2.0.1
-pyinstaller==5.2
+pyinstaller==5.6
 scikit-learn==0.24.1
 matplotlib==3.3.4
 pynput==1.7.6
