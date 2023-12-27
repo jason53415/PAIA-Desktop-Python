@@ -10,3 +10,4 @@ pytmx==3.31
 mushroom-rl==1.9.2
 opencv-python==4.5.3.56
 tensorflow==2.13.0
+keras-transformer==0.40.0
