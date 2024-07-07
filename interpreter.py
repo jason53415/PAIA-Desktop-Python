@@ -14,5 +14,5 @@ if __name__ == '__main__':
     sys.path.append(os.path.dirname(script))
     sys.stdout = io.TextIOWrapper(open(sys.stdout.fileno(), 'wb', 0), encoding='utf-8', write_through=True)
     os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "1"
-    __file__ = ""
+    __file__ = script
     exec(open(script, "r", encoding='utf-8').read(), globals(), locals())
