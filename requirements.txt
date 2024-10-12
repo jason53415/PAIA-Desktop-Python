@@ -1,4 +1,4 @@
-mlgame==10.5.1
+mlgame==10.5.2
 box2d-py==2.3.8
 pyinstaller==5.6
 scikit-learn==1.4.0
