@@ -14,4 +14,5 @@ roboticstoolbox-python==1.1.1
 numpy==1.24.3
 scipy==1.13.1
 setuptools==68.2.2
-pybluez @ git+https://github.com/pybluez/pybluez.git#egg=pybluez
+stable_baselines3==2.4.0
+gymnasium==1.0.0
